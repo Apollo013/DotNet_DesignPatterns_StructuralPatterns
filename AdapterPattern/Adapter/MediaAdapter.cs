@@ -38,7 +38,6 @@ namespace AdapterPattern.Adapter
             player.Play(fileName);
         }
 
-
         private IMediaFormatPlayer GetPlayer(string fileFormat)
         {
             if (_players.ContainsKey(fileFormat))
