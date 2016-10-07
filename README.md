@@ -23,7 +23,7 @@ Developed with Visual Studio 2015 Community
 
 ---
 
-###Builder Pattern Resources
+###Adapter Pattern Resources
 |Title|Author|Website|
 |-----|------|-------|
 |[Adapter Design Pattern](http://www.csharpstar.com/structural-design-patterns/)| | CSharpstar |
