@@ -23,6 +23,11 @@ Developed with Visual Studio 2015 Community
 
 ---
 
+### Adapter Pattern
+Works as a bridge between two incompatible interfaces by combining the functionality of both.
+
+---
+
 ###More Resources
 |Title|Author|Website|
 |-----|------|-------|
