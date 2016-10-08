@@ -31,7 +31,7 @@ Works as a bridge between two incompatible interfaces by combining the functiona
 
 ### Decorator Pattern
 Attaches additional responsibilities to an object dynamically without changing its structure.
-It provide a flexible alternative to subclass for extending functionality by wraping the original class and  new behaviors/operations to an object at run-time.
+It provides a flexible alternative to subclassing for extending functionality by wraping the original class and new behaviors/operations inside another object at run-time.
 
 ---
 
