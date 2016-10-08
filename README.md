@@ -22,6 +22,7 @@ Developed with Visual Studio 2015 Community
 |Adapter Pattern| Simulates a media player that adapts to various media formats - uses reflection | Yes |
 |Decorator Pattern| Simulates a vehicle rental scenario | Yes |
 |Facade Pattern | Unifies bank, loan & credit interfaces for a single loan application | Yes |
+|Proxy Pattern| Calculator proxy example | Yes |
 ---
 
 ### Adapter Pattern
@@ -37,6 +38,11 @@ It provides a flexible alternative to subclassing for extending functionality by
 
 ### Facade Pattern
 Provide a unified interface to a set of interfaces in a subsystem. Façade defines a higher-level interface that makes the subsystem easier to use.
+
+---
+
+### Proxy Pattern
+Provide a surrogate or placeholder for another object to control access to it
 
 ---
 
