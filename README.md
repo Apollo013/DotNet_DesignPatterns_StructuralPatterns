@@ -20,11 +20,18 @@ Developed with Visual Studio 2015 Community
 |Pattern|Description|UML Included|
 |-------|-----------|------------|
 |Adapter Pattern| Simulates a media player that adapts to various media formats - uses reflection | Yes |
+|Decorator Pattern| Simulates a vehicle rental scenario | Yes |
 
 ---
 
 ### Adapter Pattern
 Works as a bridge between two incompatible interfaces by combining the functionality of both.
+
+---
+
+### Decorator Pattern
+Attaches additional responsibilities to an object dynamically without changing its structure.
+It provides a flexible alternative to subclassing for extending functionality by wraping the original class and new behaviors/operations inside another object at run-time.
 
 ---
 
