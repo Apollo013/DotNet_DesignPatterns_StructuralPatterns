@@ -21,7 +21,7 @@ Developed with Visual Studio 2015 Community
 |-------|-----------|------------|
 |Adapter Pattern| Simulates a media player that adapts to various media formats - uses reflection | Yes |
 |Decorator Pattern| Simulates a vehicle rental scenario | Yes |
-|Facade Pattern | Unifies bank, loan & credit interfaces for a single loan application |
+|Facade Pattern | Unifies bank, loan & credit interfaces for a single loan application | Yes |
 ---
 
 ### Adapter Pattern
