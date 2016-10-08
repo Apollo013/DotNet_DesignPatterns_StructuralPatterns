@@ -23,6 +23,7 @@ Developed with Visual Studio 2015 Community
 |Decorator Pattern| Simulates a vehicle rental scenario | Yes |
 |Facade Pattern | Unifies bank, loan & credit interfaces for a single loan application | Yes |
 |Proxy Pattern| Calculator proxy example | Yes |
+
 ---
 
 ### Adapter Pattern
@@ -42,7 +43,7 @@ Provide a unified interface to a set of interfaces in a subsystem. Façade defin
 ---
 
 ### Proxy Pattern
-Provide a surrogate or placeholder for another object to control access to it
+Provides a surrogate or placeholder for another object to control access to it
 
 ---
 
