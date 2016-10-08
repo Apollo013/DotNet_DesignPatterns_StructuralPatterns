@@ -4,7 +4,7 @@ using System;
 namespace AdapterPattern.Target
 {
     /// <summary>
-    /// 
+    /// This is the 'Target' class
     /// </summary>
     public class AudioPlayer : IMediaPlayer
     {
@@ -19,6 +19,10 @@ namespace AdapterPattern.Target
             _playerAdapter = player;
         }
 
+        /// <summary>
+        /// Plays a media file
+        /// </summary>
+        /// <param name="fileName"></param>
         public void Play(string fileName)
         {
             if (String.IsNullOrWhiteSpace(fileName))
