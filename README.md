@@ -21,7 +21,7 @@ Developed with Visual Studio 2015 Community
 |-------|-----------|------------|
 |Adapter Pattern| Simulates a media player that adapts to various media formats - uses reflection | Yes |
 |Decorator Pattern| Simulates a vehicle rental scenario | Yes |
-|Composite Pattern| Gane simulates with division of winnings apread out among participants  | Yes |
+|Composite Pattern| Game simulation with division of winnings apread out among participants  | Yes |
 |Facade Pattern | Unifies bank, loan & credit interfaces for a single loan application | Yes |
 |Flyweight Pattern | Windows form example thats uses the draws multiple shapes from 2 objects only| Yes |
 |Proxy Pattern| Calculator proxy example | Yes |
