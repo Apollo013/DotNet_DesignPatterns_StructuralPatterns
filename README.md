@@ -22,6 +22,7 @@ Developed with Visual Studio 2015 Community
 |Adapter Pattern| Simulates a media player that adapts to various media formats - uses reflection | Yes |
 |Decorator Pattern| Simulates a vehicle rental scenario | Yes |
 |Facade Pattern | Unifies bank, loan & credit interfaces for a single loan application | Yes |
+|Flyweight Pattern | Windows form example thats uses the draws multiple shapes from 2 objects only| Yes |
 |Proxy Pattern| Calculator proxy example | Yes |
 
 ---
@@ -39,6 +40,11 @@ It provides a flexible alternative to subclassing for extending functionality by
 
 ### Facade Pattern
 Provide a unified interface to a set of interfaces in a subsystem. Façade defines a higher-level interface that makes the subsystem easier to use.
+
+---
+
+### Flyweight Pattern
+Flyweight design pattern is used when we need to create a lot of Objects of a class. Since every object consumes memory space that can be crucial for low memory devices, such as mobile devices or embedded systems, flyweight design pattern can be applied to reduce the load on memory by sharing objects.
 
 ---
 
