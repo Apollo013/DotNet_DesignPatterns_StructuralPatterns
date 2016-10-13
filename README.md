@@ -1,6 +1,6 @@
 # Dotnet_DesignPatterns_StructuralPatterns
 
-Demonstration of various structural design patterns
+Demonstration of various Structural Design Patterns
 
 ---
 
