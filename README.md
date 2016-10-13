@@ -56,7 +56,7 @@ Flyweight design pattern is used when we need to create a lot of Objects of a cl
 
 ---
 
-###More Resources
+### Resources
 |Title|Author|Website|
 |-----|------|-------|
 |[.NET Design Patterns](http://www.dofactory.com/net/design-patterns)| | dofactory |
